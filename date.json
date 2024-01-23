@@ -36,17 +36,17 @@
   },
   {
       "date": "2024-02-10",
-      "dayOfWeek": "Sunday",
+      "dayOfWeek": "Saturday",
       "holiday": "Lunar New Year's Day"
   },
   {
       "date": "2024-02-12",
-      "dayOfWeek": "Tuesday",
+      "dayOfWeek": "Monday",
       "holiday": "The third day of Lunar New Year"
   },
   {
       "date": "2024-02-13",
-      "dayOfWeek": "Wednesday",
+      "dayOfWeek": "Tuesday",
       "holiday": "The fourth day of Lunar New Year"
   },
   {

@@ -1,3 +1,15 @@
+gsap.to(".container", {
+  duration: 4,
+  opacity:1,
+  rotation: 360,
+  borderRadius: "50%",
+  repeatDelay: 1, // Delay between repeats (1 second in this example)
+  yoyo: true,
+  ease: "power2.out",
+});
+
+
+
 let jsonData;
 
 
